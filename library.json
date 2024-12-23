@@ -1,0 +1,21 @@
+{
+  "name": "ebuscore",
+  "version": "1.0.0",
+  "description": "ebuscore is a C++ library that provides basic ebus classes.",
+  "keywords": "ebus, heating",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuhu-/ebuscore.git"
+  },
+  "authors": {
+    "name": "Roland Jax",
+    "email": "roland.jax@liwest.at",
+    "maintainer": true
+  },
+  "license": "GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ]
+}
